@@ -579,3 +579,29 @@
         width: 32px;
     }
 }
+
+
+@media(max-width:370px){
+
+.mob{
+    right: 30px !important;
+}
+.mob-1{
+    left: 30px;
+}
+.mob-2{
+    left: 30px;
+}
+.none-2{
+    left: 5px;
+}
+.childs-3{
+    left: 5px !important;
+}
+.work{
+    margin-left: 5px !important;
+}
+.relax{
+    margin: 0 !important;
+}
+}
